@@ -6,6 +6,12 @@
 
 
 
+### Fugus Game
+
+The completed Fugus Game is in a folder called fungus_game. 
+
+The assets you will need to build this project from scratch are in the  **fungus_game_asset_pack** folder
+
 ### Star Wisher Game 
 
 The Star Wisher completed game is in the folder called **star_wisher**
