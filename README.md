@@ -1,10 +1,10 @@
-
+![logo](https://github.com/CodeLiberation/codeliberation.github.io/blob/master/favicon.png)
 
 # Welcome to the Code Liberation Future Learn Class on Creating Expressive Videogames 
 
 *All of the material you will need to create the games is in the repository here. Just go to the green button above and choose to download as a .zip file.*  
 
-![logo](https://github.com/CodeLiberation/codeliberation.github.io/blob/master/favicon.png)
+
 
 ### Star Wisher Game 
 
