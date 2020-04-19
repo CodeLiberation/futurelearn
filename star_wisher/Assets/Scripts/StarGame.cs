@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 public class StarGame : MonoBehaviour
 {
-    public GameObject star;
     public GameObject gameInstructions;
     // Start is called before the first frame update
     void Start()
@@ -25,9 +24,10 @@ public class StarGame : MonoBehaviour
     void Update()
     {
         if (transform.childCount ==0)
-        { 
-            star.SetActive(true);
-            gameInstructions.SetActive(false);
+        {
+            gameInstructions.GetComponent<Text>().text = "Your wishes are working on coming true.";
+            gameInstructions.GetComponent<Text>().color = new Color(1.0f, 0.85f, 0.0f);
+            gameInstructions.GetComponent<RectTransform>().localPosition = new Vector3(0.0f, 0.0f, 0.0f);
         }    
 
     }
